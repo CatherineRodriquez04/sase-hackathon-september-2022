@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 
+document.write("Hello World");
+
 function App() {
   return (
     <div className="App">
